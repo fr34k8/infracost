@@ -15,7 +15,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/ec2 v1.84.0
 	github.com/aws/aws-sdk-go-v2/service/s3 v1.30.1
 	github.com/awslabs/goformation/v4 v4.19.5
-	github.com/briandowns/spinner v1.15.0
+	github.com/briandowns/spinner v1.21.0
 	github.com/dave/dst v0.27.2
 	github.com/dustin/go-humanize v1.0.0
 	github.com/fatih/color v1.13.0
@@ -100,7 +100,6 @@ require (
 	github.com/go-git/go-git/v5 v5.4.3-0.20220529141257-bc1f419cebcf
 	github.com/google/go-github/v41 v41.0.0
 	github.com/gruntwork-io/terragrunt v0.36.9
-	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-retryablehttp v0.7.2
 	github.com/hashicorp/go-terraform-address v0.0.0-20210506203813-2cc4f0f34da8
 	github.com/hashicorp/terraform-svchost v0.0.0-20200729002733-f050f53b9734
@@ -153,6 +152,7 @@ require (
 	github.com/gookit/color v1.5.2 // indirect
 	github.com/goware/prefixer v0.0.0-20160118172347-395022866408 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
+	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
 	github.com/hashicorp/go-sockaddr v1.0.2 // indirect
 	github.com/hashicorp/terraform v0.15.3 // indirect
