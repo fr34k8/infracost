@@ -100,7 +100,6 @@ require (
 	github.com/go-git/go-git/v5 v5.4.3-0.20220529141257-bc1f419cebcf
 	github.com/google/go-github/v41 v41.0.0
 	github.com/gruntwork-io/terragrunt v0.36.9
-	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-retryablehttp v0.7.2
 	github.com/hashicorp/go-terraform-address v0.0.0-20210506203813-2cc4f0f34da8
 	github.com/hashicorp/terraform-svchost v0.0.0-20200729002733-f050f53b9734
@@ -153,6 +152,7 @@ require (
 	github.com/gookit/color v1.5.2 // indirect
 	github.com/goware/prefixer v0.0.0-20160118172347-395022866408 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
+	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
 	github.com/hashicorp/go-sockaddr v1.0.2 // indirect
 	github.com/hashicorp/terraform v0.15.3 // indirect
@@ -208,7 +208,7 @@ require (
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/open-policy-agent/opa v0.46.1
-	github.com/otiai10/copy v1.7.0
+	github.com/otiai10/copy v1.9.0
 	github.com/rcrowley/go-metrics v0.0.0-20200313005456-10cdbea86bc0 // indirect
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
