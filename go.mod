@@ -79,7 +79,7 @@ require (
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/sanathkr/go-yaml v0.0.0-20170819195128-ed9d249f429b // indirect
 	github.com/sanathkr/yaml v0.0.0-20170819201035-0056894fa522 // indirect
-	github.com/slack-go/slack v0.11.3
+	github.com/slack-go/slack v0.12.1
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	golang.org/x/text v0.6.0
@@ -100,7 +100,6 @@ require (
 	github.com/go-git/go-git/v5 v5.4.3-0.20220529141257-bc1f419cebcf
 	github.com/google/go-github/v41 v41.0.0
 	github.com/gruntwork-io/terragrunt v0.36.9
-	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-retryablehttp v0.7.2
 	github.com/hashicorp/go-terraform-address v0.0.0-20210506203813-2cc4f0f34da8
 	github.com/hashicorp/terraform-svchost v0.0.0-20200729002733-f050f53b9734
@@ -153,6 +152,7 @@ require (
 	github.com/gookit/color v1.5.2 // indirect
 	github.com/goware/prefixer v0.0.0-20160118172347-395022866408 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
+	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-rootcerts v1.0.2 // indirect
 	github.com/hashicorp/go-sockaddr v1.0.2 // indirect
 	github.com/hashicorp/terraform v0.15.3 // indirect
